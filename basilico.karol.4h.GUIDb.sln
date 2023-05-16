@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "basilico.karol.4h.GUIDb", "basilico.karol.4h.GUIDb\basilico.karol.4h.GUIDb.csproj", "{B372E056-62CA-4DF5-B2E9-D0A36A97A612}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B372E056-62CA-4DF5-B2E9-D0A36A97A612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B372E056-62CA-4DF5-B2E9-D0A36A97A612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B372E056-62CA-4DF5-B2E9-D0A36A97A612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B372E056-62CA-4DF5-B2E9-D0A36A97A612}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B401FED-0CE7-464A-8AA3-B993BE1092DF}
+	EndGlobalSection
+EndGlobal
